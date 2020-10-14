@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,sci-hub.tw
-DOMAIN-SUFFIX,sci-hub.se
-DOMAIN-SUFFIX,sci-hub.st
-DOMAIN-SUFFIX,sci-hub.tf
+DOMAIN-SUFFIX,sci-hub.tw,scihub
+DOMAIN-SUFFIX,sci-hub.se,scihub
+DOMAIN-SUFFIX,sci-hub.st,scihub
+DOMAIN-SUFFIX,sci-hub.tf,scihub
