@@ -1,5 +1,4 @@
 DOMAIN,origin.emby.men,Emby
 DOMAIN,emby.w8ves.co,Emby
-DOMAIN,pub1.emby.wtf,Emby
-DOMAIN,pub1cf.emby.wtf,Emby
+DOMAIN-SUFFIX,emby.wtf,Emby
 DOMAIN-SUFFIX,xeton.dev,Emby
